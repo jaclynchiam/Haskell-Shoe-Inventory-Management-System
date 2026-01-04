@@ -1,0 +1,9 @@
+Shoe {shoeId = "S002", name = "Adidas Sambda", model = "Sambda OG", brandName = Adidas, color = "Green", size = Size 9, quantity = Quantity 90, price = Price 569.0, status = InStock}
+Shoe {shoeId = "S007", name = "Nike Air Max 97", model = "AM97", brandName = Nike, color = "Black", size = Size 6, quantity = Quantity 70, price = Price 799.99, status = InStock}
+Shoe {shoeId = "S034", name = "Nike Air Max", model = "AM95", brandName = Nike, color = "Green", size = Size 4, quantity = Quantity 40, price = Price 799.0, status = LowStock}
+Shoe {shoeId = "S087", name = "Nike Air Max 95", model = "AM95", brandName = Nike, color = "Grey", size = Size 7, quantity = Quantity 90, price = Price 90.0, status = InStock}
+Shoe {shoeId = "S103", name = "NewBalance 574", model = "NB574", brandName = Adidas, color = "Navy Blue", size = Size 9, quantity = Quantity 90, price = Price 90.0, status = InStock}
+Shoe {shoeId = "S019", name = "Adidas Sambda", model = "Sambda OG", brandName = Adidas, color = "White", size = Size 9, quantity = Quantity 90, price = Price 99.0, status = InStock}
+Shoe {shoeId = "S089", name = "Adidas Sambda OG ", model = "sambda OG", brandName = Adidas, color = "Black", size = Size 3, quantity = Quantity 99, price = Price 90.0, status = InStock}
+Shoe {shoeId = "S003", name = "Air Jordan 95", model = "J95", brandName = Nike, color = "Grean", size = Size 9, quantity = Quantity 50, price = Price 90.0, status = LowStock}
+Shoe {shoeId = "S001", name = "s", model = "s", brandName = Adidas, color = "s", size = Size 2, quantity = Quantity 2, price = Price 2.0, status = LowStock}
